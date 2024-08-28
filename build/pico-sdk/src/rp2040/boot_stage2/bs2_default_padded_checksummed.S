@@ -1,4 +1,4 @@
-// Padded and checksummed version of: /Users/aidancase/blink/build/pico-sdk/src/rp2040/boot_stage2/bs2_default.bin
+// Padded and checksummed version of: /Users/aidancase/ece5785_lab0/build/pico-sdk/src/rp2040/boot_stage2/bs2_default.bin
 
 .cpu cortex-m0plus
 .thumb

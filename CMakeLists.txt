@@ -78,7 +78,8 @@ endif()
 
 # Add the standard library to the build
 target_link_libraries(blink
-        pico_stdlib)
+        pico_stdlib
+        pico_cyw43_arch_none)
 
 # Add the standard include files to the build
 target_include_directories(blink PRIVATE
