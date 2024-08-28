@@ -1,5 +1,5 @@
 # Overview
-This is a brief description of Lab 0 for ECE 5785
+This is a brief description of Lab 0 for ECE 5785, along with different Markdown commands and uses.
 # Title
 ## Heading 1
 ### Heading 2
